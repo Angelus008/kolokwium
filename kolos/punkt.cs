@@ -8,10 +8,7 @@ namespace kolos
 {
     class punkt
     {
-
-
-namespace AndrzejKolos.Model
-    {
+    
         public class Point
         {
             public int X { get; set; }
@@ -26,4 +23,4 @@ namespace AndrzejKolos.Model
         }
     }
 }
-}
+
