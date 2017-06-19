@@ -48,6 +48,7 @@
     <Compile Include="prostokąt.cs" />
     <Compile Include="punkt.cs" />
     <Compile Include="test punktu.cs" />
+    <Compile Include="test_prostokata.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
