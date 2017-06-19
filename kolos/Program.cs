@@ -10,6 +10,9 @@ namespace kolos
     {
         static void Main(string[] args)
         {
+            public int x;
+        public int y;
+
         }
     }
 }
