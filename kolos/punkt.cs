@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace kolos
 {
-    class punkt
-    {
+ 
     
         public class Point
         {
